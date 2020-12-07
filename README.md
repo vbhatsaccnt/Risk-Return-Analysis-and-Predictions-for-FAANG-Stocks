@@ -19,3 +19,5 @@ What was the correlation between daily returns of different stocks?
 How much value do we put at risk by investing in a particular stock?
 
 How can we attempt to predict future stock behaviour?
+
+
