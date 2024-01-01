@@ -1,23 +1,3 @@
-# Stock_Market_Analysis
-An exploratory Data Analysis on the tech stocks like Apple, Google, Amazon and Tesla. Predicting the future stock price and risk analysis with monte - carlo simulation (GBM).
+This repository contains my portfolio of investment and finance-related data science projects. These projects are written and presented as Jupyter Notebooks (Python 3), and each link is followed by a short description of project goals, contributions, and dependencies used.
 
-
-In this project, we'll analyse data from the stock market for some technology stocks.
-
-Again, we'll use Pandas, seaborn to extract and analyse the information, visualise it, and look at different ways to analyse the risk of a stock, based on its performance history.
-
-Here are the questions we'll try to answer:
-
-What was the change in a stock's price over time?
-
-What was the daily return average of a stock?
-
-What was the moving average of various stocks? List item
-
-What was the correlation between daily returns of different stocks?
-
-How much value do we put at risk by investing in a particular stock?
-
-How can we attempt to predict future stock behaviour?
-
-
+All of the following projects were coded and tested through the Domino Data Lab platform (https://www.dominodatalab.com). I chose to use Domino because the platform allows for easy access to Jupyter notebooks, a built-in terminal, and offline scheduling of jobs for periodic regulation of stock prices.
